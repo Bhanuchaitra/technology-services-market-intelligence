@@ -47,6 +47,6 @@ Real-world conclusions will require reliable public sources, documented referenc
 
 ## Project Status
 
-**Initial prototype:** Project structure and sample analysis.
+**Status:** In Progress
 
-**Next steps:** Validate real-world data sources, complete the analysis, build the dashboard, and document evidence-based findings.
+The initial project structure and illustrative dataset have been prepared. The next steps are to validate real-world data sources, complete the Excel, SQL, and Python analysis, develop the Power BI dashboard, and document evidence-based business insights and recommendations.
